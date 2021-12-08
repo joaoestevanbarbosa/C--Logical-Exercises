@@ -7,7 +7,10 @@ namespace LogicalExercises
     {
         static void Main(string[] args)
         {
-            NumberCountDigit.Executar();
+            //NumberCountDigit.Execute();
+            NumbersStartAndEndWithSameDigit.Execute();
+
+
         }
     }
 }

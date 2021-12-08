@@ -9,7 +9,7 @@ namespace LogicalExercises.Exercises
     public class NumberCountDigit
     {
         //Code in C# to count number of times a digit appears in a number.
-        public static void Executar()
+        public static void Execute()
         {
             Console.WriteLine("Quai número você deseja digitar, de no máximo 10 dígitos?");
             var numberConsole = Console.ReadLine();
