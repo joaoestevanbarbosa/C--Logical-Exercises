@@ -8,7 +8,8 @@ namespace LogicalExercises
         static void Main(string[] args)
         {
             //NumberCountDigit.Execute();
-            NumbersStartAndEndWithSameDigit.Execute();
+            //NumbersStartAndEndWithSameDigit.Execute();
+            NumbersStartAndEndWithDigit3.Execute();
 
 
         }
