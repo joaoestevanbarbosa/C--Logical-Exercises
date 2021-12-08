@@ -9,7 +9,8 @@ namespace LogicalExercises
         {
             //NumberCountDigit.Execute();
             //NumbersStartAndEndWithSameDigit.Execute();
-            NumbersStartAndEndWithDigit3.Execute();
+            //NumbersStartAndEndWithDigit3.Execute();
+            NumberssStartsWithAndHasOnly1Digit3.Execute();
 
 
         }
