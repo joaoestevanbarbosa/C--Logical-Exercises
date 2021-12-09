@@ -12,7 +12,7 @@ namespace LogicalExercises.Exercises
         {
             int[] w = new int[] { 2, 13, 11, 9, 7, 0 };
             int[] z = new int[] { 3, 10, 11, 8, 0, 4 };
-            int[] vetor = new int[6];
+            int[] vetor = new int[6] { 1, 2, 3, 4, 5, 6 };
             int x;
 
             for(int i=1; i< vetor.Length; i++)
