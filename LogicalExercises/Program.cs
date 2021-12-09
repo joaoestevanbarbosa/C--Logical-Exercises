@@ -13,6 +13,7 @@ namespace LogicalExercises
             //NumberssStartsWithAndHasOnly1Digit3.Execute();
             //VaiDarTrabalhoPitang.Execute();
             //Pitang1.Execute();
+            //Pitang2.Execute();
 
 
         }
