@@ -10,7 +10,9 @@ namespace LogicalExercises
             //NumberCountDigit.Execute();
             //NumbersStartAndEndWithSameDigit.Execute();
             //NumbersStartAndEndWithDigit3.Execute();
-            NumberssStartsWithAndHasOnly1Digit3.Execute();
+            //NumberssStartsWithAndHasOnly1Digit3.Execute();
+            //VaiDarTrabalhoPitang.Execute();
+            //Pitang1.Execute();
 
 
         }
