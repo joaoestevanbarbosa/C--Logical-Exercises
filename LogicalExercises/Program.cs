@@ -16,6 +16,7 @@ namespace LogicalExercises
             //Pitang2.Execute();
             //ParOuImpar.Execute();
             //Calculadora.Execute();
+            //MenorOuMaiorDe18.Execute();
 
 
         }
