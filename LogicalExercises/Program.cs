@@ -14,6 +14,7 @@ namespace LogicalExercises
             //VaiDarTrabalhoPitang.Execute();
             //Pitang1.Execute();
             //Pitang2.Execute();
+            //ParOuImpar.Execute();
 
 
         }
