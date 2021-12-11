@@ -17,6 +17,7 @@ namespace LogicalExercises
             //ParOuImpar.Execute();
             //Calculadora.Execute();
             //MenorOuMaiorDe18.Execute();
+            //TroqueLetraPorSimbolo.Execute();
 
 
         }
