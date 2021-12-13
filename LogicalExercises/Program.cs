@@ -19,8 +19,8 @@ namespace LogicalExercises
             //MenorOuMaiorDe18.Execute();
             //TroqueLetraPorSimbolo.Execute();
             //TroqueLetraPorSimboloSemReplace.Execute();
-            ReajusteSalarial.Execute();
-
+            //ReajusteSalarial.Execute();
+            AgentaEmTexto.Execute();
 
         }
     }
