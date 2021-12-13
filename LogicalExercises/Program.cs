@@ -20,7 +20,8 @@ namespace LogicalExercises
             //TroqueLetraPorSimbolo.Execute();
             //TroqueLetraPorSimboloSemReplace.Execute();
             //ReajusteSalarial.Execute();
-            AgentaEmTexto.Execute();
+            //AgentaEmTexto.Execute();
+            //IMC.Execute();
 
         }
     }
