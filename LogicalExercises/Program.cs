@@ -23,6 +23,7 @@ namespace LogicalExercises
             //AgentaEmTexto.Execute();
             //IMC.Execute();
             //DIOXenlongao.Execute();
+            DIOQuadradoDePares.Execute();
         }
     }
 }
