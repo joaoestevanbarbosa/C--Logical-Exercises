@@ -24,7 +24,8 @@ namespace LogicalExercises
             //IMC.Execute();
             //DIOXenlongao.Execute();
             //DIOQuadradoDePares.Execute();
-            DIOSequenciaS.Execute();
+            //DIOSequenciaS.Execute();
+            DIOSequenciaIJ.Execute();
         }
     }
 }
