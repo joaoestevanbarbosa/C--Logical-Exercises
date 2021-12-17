@@ -26,7 +26,8 @@ namespace LogicalExercises
             //DIOQuadradoDePares.Execute();
             //DIOSequenciaS.Execute();
             //DIOSequenciaIJ.Execute();
-            DIOVaiTerCopa.Execute();
+            //DIOVaiTerCopa.Execute();
+            //DIOSucessorPar.Execute();
         }
     }
 }
