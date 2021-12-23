@@ -28,6 +28,7 @@ namespace LogicalExercises
             //DIOSequenciaIJ.Execute();
             //DIOVaiTerCopa.Execute();
             //DIOSucessorPar.Execute();
+            Palindrome.Execute();
         }
     }
 }
